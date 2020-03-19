@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hiesoaquul.xn--tfs117j.cn/sitemap.xml
